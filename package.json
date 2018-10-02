@@ -1,6 +1,6 @@
 {
 	"name": "stdby",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Alike _.(...)By methods from lodash using lodash basically lodash",
 	"license": "MIT",
 	"repository": "NoFishLikeIan/stdby",
